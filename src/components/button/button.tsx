@@ -21,7 +21,6 @@ export class ErrorButton extends Component {
     error: false,
   };
   render() {
-    console.log(this.state);
     return (
       <>
         <button
